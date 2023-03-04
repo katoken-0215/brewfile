@@ -3,6 +3,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask-versions"
 tap "homebrew/cask"
 tap "homebrew/core"
+tap "homebrew/cask-fonts"
 
 # For buiding Python
 # https://github.com/pyenv/pyenv/wiki#suggested-build-environment
