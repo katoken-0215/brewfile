@@ -5,7 +5,7 @@ tap "homebrew/cask"
 tap "homebrew/core"
 tap "homebrew/cask-fonts"
 
-# For buiding Python
+# For building Python
 # https://github.com/pyenv/pyenv/wiki#suggested-build-environment
 brew "openssl@1.1"
 brew "readline"
