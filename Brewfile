@@ -1,8 +1,6 @@
 tap "github/gh"
 tap "homebrew/bundle"
 tap "homebrew/cask-versions"
-tap "homebrew/cask"
-tap "homebrew/core"
 tap "homebrew/cask-fonts"
 
 # For building Python
@@ -16,7 +14,6 @@ brew "zlib"
 # Fundamental CLI tools
 brew "bat"
 brew "curl"
-brew "delta"
 brew "dust"
 brew "fd"
 brew "fzf"
@@ -24,6 +21,7 @@ brew "grep"
 brew "jq"
 brew "lsd"
 brew "nkf"
+brew "peak/tap/s5cmd"
 brew "ripgrep"
 brew "rsync"
 brew "sd"
@@ -47,8 +45,6 @@ brew "ghq"
 brew "terraform"
 
 # Casks
-cask "choosy"
-cask "clipy"
 cask "iterm2"
 cask "jasper"
 cask "karabiner-elements"
